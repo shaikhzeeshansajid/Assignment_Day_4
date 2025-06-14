@@ -9,7 +9,7 @@ This project is a part of Day 4 training. It shows how to style an HTML page usi
 - Uses inline, internal, and external CSS
 
 ## Files
-- `index4,html` – Main HTML file
+- `index4.html` – Main HTML file
 - `css4.css` – External stylesheet
 
 ## How to View
